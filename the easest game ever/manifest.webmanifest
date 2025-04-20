@@ -1,0 +1,12 @@
+{
+  "name": "The Easest Game ever",
+  "short_name": "The Easest Game ever",
+  "id": "com.example.gamename",
+  "description": "ha ha ha",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
